@@ -9,3 +9,6 @@
 /vendor/
 /bin/
 /composer.phar
+/.idea/ (debug)
+.idea/ (debug)
+.idea
